@@ -10,3 +10,6 @@
 • Implementation and use of the UNet architecture.
 
 • Implementation and use of the ResUNet architecture.
+
+#Dataset
+https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
